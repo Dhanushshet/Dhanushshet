@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanush Shet</h1>
 <h3 align="center">Passionate Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="down" alt="Motivational" width="200" src="https://media.tenor.com/xvv9kixD6BsAAAAM/motivational-quotes-motivation.gif">
+<img align="down" alt="Motivational" width="200" src="https://media.tenor.com/bzZi_F6WMO0AAAAM/quotation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushshet&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushshet" /> </p>
 
