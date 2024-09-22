@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhanush Shet</h1>
 <h3 align="center">Passionate Data Engineer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Crazy coding guy with computers"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Crazy coding guy with computers"/>
+<p align="top right">
+  <img src="https://media.tenor.com/xvv9kixD6BsAAAAM/motivational-quotes-motivation.gif" width="200" height="300" alt="Anime work and sports vibe"/>
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/xvv9kixD6BsAAAAM/motivational-quotes-motivation.gif" width="500" height="300" alt="Anime work and sports vibe"/>
-</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushshet&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushshet" /> </p>
 
