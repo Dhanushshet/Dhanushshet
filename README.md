@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush Shet</h1>
 <h3 align="center">Passionate Data Engineer</h3>
+<img align="right",alt="Coding",width="400", src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="down",alt="Coding",width="200", src="https://media.tenor.com/xvv9kixD6BsAAAAM/motivational-quotes-motivation.gif" >
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Crazy coding guy with computers"/>
-<p align="top right">
-  <img src="https://media.tenor.com/xvv9kixD6BsAAAAM/motivational-quotes-motivation.gif" width="200" height="300" alt="Anime work and sports vibe"/>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushshet&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushshet" /> </p>
 
@@ -23,7 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushshet&show_icons=true&locale=en&layout=compact" alt="dhanushshet" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushshet&show_icons=true&locale=en" alt="dhanushshet" /></p>
 
